@@ -1,0 +1,9 @@
+// Referência para leitura de bindings. A configuração de deploy ativa está em
+// cloudflare.config.ts (Vite plugin v2 / cf). Não execute wrangler deploy com
+// este arquivo: o vinext gera seus próprios entrypoints durante o build.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kwitch-draw",
+  "compatibility_date": "2026-10-06",
+  "compatibility_flags": ["nodejs_compat"],
+}

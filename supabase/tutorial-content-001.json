@@ -1,0 +1,533 @@
+[
+  {
+    "slug": "folhas-da-lua",
+    "challenge_id": 201,
+    "lesson_id": null,
+    "payload": {
+      "title": "Folhas da Lua — combine e crie sua planta",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#237580",
+          "label": "Azul-petróleo"
+        },
+        {
+          "hex": "#8766ad",
+          "label": "Roxo"
+        },
+        {
+          "hex": "#ce9f49",
+          "label": "Dourado"
+        }
+      ],
+      "final_image": "/tutorials/folhas-da-lua/passo-7.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Seis formas de folhas",
+          "description": "Compare o contorno à esquerda com a folha colorida à direita. Desenhe suas próprias seis opções.",
+          "image": "/tutorials/folhas-da-lua/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Escolha e combine duas",
+          "description": "Combine a folha em lança com a folha em coração. Alterne seus tamanhos e posições no caule.",
+          "image": "/tutorials/folhas-da-lua/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Esboce sua planta",
+          "description": "Faça o caule curvo e distribua as duas folhas escolhidas. Deixe espaço para pequenas flores.",
+          "image": "/tutorials/folhas-da-lua/passo-3.svg",
+          "type": "sketch",
+          "tip": ""
+        },
+        {
+          "title": "Contornos e nervuras",
+          "description": "Reforce o mesmo esboço. A nervura central e as ramificações acompanham o formato da folha.",
+          "image": "/tutorials/folhas-da-lua/passo-4.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Pinte com poucos tons",
+          "description": "Folhas em coração recebem roxo; folhas em lança, azul-petróleo. As flores recebem dourado.",
+          "image": "/tutorials/folhas-da-lua/passo-5.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Detalhes ampliados",
+          "description": "Veja as nervuras seguindo o crescimento da folha e uma faixa mais clara no lado iluminado.",
+          "image": "/tutorials/folhas-da-lua/passo-6.svg",
+          "type": "detail",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "Uma planta imaginária com as duas folhas, flores douradas e lua ao fundo. Mude a silhueta, as cores e os detalhes.",
+          "image": "/tutorials/folhas-da-lua/passo-7.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "cesta-iniciante",
+    "challenge_id": 1225,
+    "lesson_id": null,
+    "payload": {
+      "title": "Cesta de piquenique — primeiros traços",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#ce9f49",
+          "label": "Palha e pão"
+        },
+        {
+          "hex": "#e5a18f",
+          "label": "Frutas"
+        },
+        {
+          "hex": "#3d2b45",
+          "label": "Contorno"
+        }
+      ],
+      "final_image": "/tutorials/cesta-iniciante/passo-6.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Observe a cesta",
+          "description": "A borda mostra a abertura; a alça acompanha a largura do cesto. Compare as curvas antes dos alimentos.",
+          "image": "/tutorials/cesta-iniciante/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Construa a mesma cesta",
+          "description": "Defina borda oval, alça e laterais inclinadas. O fundo é mais estreito que a abertura.",
+          "image": "/tutorials/cesta-iniciante/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Acrescente pão e frutas",
+          "description": "Encaixe o pão atrás da borda e as frutas no meio. As sobreposições mostram o que está mais perto.",
+          "image": "/tutorials/cesta-iniciante/passo-3.svg",
+          "type": "sketch",
+          "tip": ""
+        },
+        {
+          "title": "Desenhe a trama",
+          "description": "Linhas horizontais seguem a curva da cesta. As tiras verticais acompanham suas laterais.",
+          "image": "/tutorials/cesta-iniciante/passo-4.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Separe materiais e cores",
+          "description": "Dourado no cesto, creme no pão e coral nas frutas. Preserve áreas claras para mostrar volume.",
+          "image": "/tutorials/cesta-iniciante/passo-5.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "A luz destaca a borda e a sombra prende a cesta à superfície. Mude os alimentos e a organização.",
+          "image": "/tutorials/cesta-iniciante/passo-6.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "cesta-intermediario",
+    "challenge_id": 1226,
+    "lesson_id": null,
+    "payload": {
+      "title": "Cesta em três quartos — textura e volume",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#ce9f49",
+          "label": "Palha e pão"
+        },
+        {
+          "hex": "#e5a18f",
+          "label": "Frutas"
+        },
+        {
+          "hex": "#3d2b45",
+          "label": "Contorno"
+        }
+      ],
+      "final_image": "/tutorials/cesta-intermediario/passo-6.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Observe a cesta",
+          "description": "A borda mostra a abertura; a alça acompanha a largura do cesto. Compare as curvas antes dos alimentos.",
+          "image": "/tutorials/cesta-intermediario/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Construa a mesma cesta",
+          "description": "Defina borda oval, alça e laterais inclinadas. O fundo é mais estreito que a abertura.",
+          "image": "/tutorials/cesta-intermediario/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Acrescente pão e frutas",
+          "description": "Encaixe o pão atrás da borda e as frutas no meio. As sobreposições mostram o que está mais perto.",
+          "image": "/tutorials/cesta-intermediario/passo-3.svg",
+          "type": "sketch",
+          "tip": ""
+        },
+        {
+          "title": "Desenhe a trama",
+          "description": "Linhas horizontais seguem a curva da cesta. As tiras verticais acompanham suas laterais.",
+          "image": "/tutorials/cesta-intermediario/passo-4.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Separe materiais e cores",
+          "description": "Dourado no cesto, creme no pão e coral nas frutas. Preserve áreas claras para mostrar volume.",
+          "image": "/tutorials/cesta-intermediario/passo-5.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "A luz destaca a borda e a sombra prende a cesta à superfície. Mude os alimentos e a organização.",
+          "image": "/tutorials/cesta-intermediario/passo-6.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "cesta-avancado",
+    "challenge_id": 1227,
+    "lesson_id": null,
+    "payload": {
+      "title": "Natureza-morta — cesta, tecido e pote",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#ce9f49",
+          "label": "Palha e pão"
+        },
+        {
+          "hex": "#e5a18f",
+          "label": "Frutas"
+        },
+        {
+          "hex": "#3d2b45",
+          "label": "Contorno"
+        }
+      ],
+      "final_image": "/tutorials/cesta-avancado/passo-6.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Observe a cesta",
+          "description": "Monte a cesta com dois acessórios: tecido dobrado e pequeno pote. Eles ajudam a estudar materiais, elipses e sombra.",
+          "image": "/tutorials/cesta-avancado/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Construa a mesma cesta",
+          "description": "Defina borda oval, alça e laterais inclinadas. O fundo é mais estreito que a abertura.",
+          "image": "/tutorials/cesta-avancado/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Acrescente pão e frutas",
+          "description": "Encaixe o pão atrás da borda e as frutas no meio. As sobreposições mostram o que está mais perto.",
+          "image": "/tutorials/cesta-avancado/passo-3.svg",
+          "type": "sketch",
+          "tip": ""
+        },
+        {
+          "title": "Desenhe a trama",
+          "description": "Linhas horizontais seguem a curva da cesta. As tiras verticais acompanham suas laterais.",
+          "image": "/tutorials/cesta-avancado/passo-4.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Separe materiais e cores",
+          "description": "Dourado no cesto, creme no pão e coral nas frutas. Preserve áreas claras para mostrar volume.",
+          "image": "/tutorials/cesta-avancado/passo-5.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "A luz destaca a borda e a sombra prende a cesta à superfície. Mude os alimentos e a organização.",
+          "image": "/tutorials/cesta-avancado/passo-6.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "olhos-pratica",
+    "challenge_id": 3006,
+    "lesson_id": null,
+    "payload": {
+      "title": "Cinco olhos — diferentes direções",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#237580",
+          "label": "Íris"
+        },
+        {
+          "hex": "#e5a18f",
+          "label": "Pálpebras"
+        },
+        {
+          "hex": "#3d2b45",
+          "label": "Contorno"
+        }
+      ],
+      "final_image": "/tutorials/olhos-pratica/passo-5.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Reconheça as pálpebras",
+          "description": "O contorno superior é mais arqueado; a pálpebra inferior é mais suave.",
+          "image": "/tutorials/olhos-pratica/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Posicione íris e pupila",
+          "description": "A íris entra sob a pálpebra superior. A pupila acompanha a direção do olhar.",
+          "image": "/tutorials/olhos-pratica/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Cílios e sobrancelha",
+          "description": "Cílios saem das bordas das pálpebras. Use poucos traços e varie a direção.",
+          "image": "/tutorials/olhos-pratica/passo-3.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Luz e sombra no olho",
+          "description": "Reserve um brilho na íris. A sombra abaixo do olho ajuda a mostrar seu volume.",
+          "image": "/tutorials/olhos-pratica/passo-4.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "Crie cinco olhos olhando em direções diferentes. Veja como íris e pupila mudam de posição.",
+          "image": "/tutorials/olhos-pratica/passo-5.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "maos-pratica",
+    "challenge_id": 3012,
+    "lesson_id": null,
+    "payload": {
+      "title": "Cinco mãos abertas — observe e varie",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#ebc5b5",
+          "label": "Pele"
+        },
+        {
+          "hex": "#e5a18f",
+          "label": "Sombra"
+        },
+        {
+          "hex": "#3d2b45",
+          "label": "Contorno"
+        }
+      ],
+      "final_image": "/tutorials/maos-pratica/passo-5.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Observe a mão aberta",
+          "description": "Compare os cinco dedos e o espaço do polegar. Os dedos têm comprimentos diferentes.",
+          "image": "/tutorials/maos-pratica/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Organize palma e dedos",
+          "description": "Veja o arco dos dedos e as linhas da palma. O polegar nasce ao lado da mão.",
+          "image": "/tutorials/maos-pratica/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Marque as articulações",
+          "description": "As dobras acompanham as articulações. Compare os segmentos sem apertar o lápis.",
+          "image": "/tutorials/maos-pratica/passo-3.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Dê volume à mesma mão",
+          "description": "Use tom claro na frente e um tom mais escuro nas dobras. Varie a força do contorno.",
+          "image": "/tutorials/maos-pratica/passo-4.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "Desenhe cinco mãos abertas variando inclinação e formato. Observe também sua própria mão.",
+          "image": "/tutorials/maos-pratica/passo-5.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "olhos-aula",
+    "challenge_id": null,
+    "lesson_id": "olhos-iniciante",
+    "payload": {
+      "title": "Um olho real — pálpebras, íris e luz",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#237580",
+          "label": "Íris"
+        },
+        {
+          "hex": "#e5a18f",
+          "label": "Pálpebras"
+        },
+        {
+          "hex": "#3d2b45",
+          "label": "Contorno"
+        }
+      ],
+      "final_image": "/tutorials/olhos-aula/passo-5.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Reconheça as pálpebras",
+          "description": "O contorno superior é mais arqueado; a pálpebra inferior é mais suave.",
+          "image": "/tutorials/olhos-aula/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Posicione íris e pupila",
+          "description": "A íris entra sob a pálpebra superior. A pupila acompanha a direção do olhar.",
+          "image": "/tutorials/olhos-aula/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Cílios e sobrancelha",
+          "description": "Cílios saem das bordas das pálpebras. Use poucos traços e varie a direção.",
+          "image": "/tutorials/olhos-aula/passo-3.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Luz e sombra no olho",
+          "description": "Reserve um brilho na íris. A sombra abaixo do olho ajuda a mostrar seu volume.",
+          "image": "/tutorials/olhos-aula/passo-4.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "Uma inspiração do estudo finalizado. Observe os contornos e os detalhes; adapte a construção à sua referência.",
+          "image": "/tutorials/olhos-aula/passo-5.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  },
+  {
+    "slug": "maos-aula",
+    "challenge_id": null,
+    "lesson_id": "maos-iniciante",
+    "payload": {
+      "title": "Uma mão aberta — palma, dedos e dobras",
+      "intro": "Observe a evolução do mesmo desenho e adapte a construção à sua própria ideia.",
+      "palette": [
+        {
+          "hex": "#ebc5b5",
+          "label": "Pele"
+        },
+        {
+          "hex": "#e5a18f",
+          "label": "Sombra"
+        },
+        {
+          "hex": "#3d2b45",
+          "label": "Contorno"
+        }
+      ],
+      "final_image": "/tutorials/maos-aula/passo-5.svg",
+      "tips": "Experimente tamanhos, cores e detalhes diferentes. O exemplo é uma inspiração, não a única resposta correta.",
+      "steps": [
+        {
+          "title": "Observe a mão aberta",
+          "description": "Compare os cinco dedos e o espaço do polegar. Os dedos têm comprimentos diferentes.",
+          "image": "/tutorials/maos-aula/passo-1.svg",
+          "type": "reference",
+          "tip": ""
+        },
+        {
+          "title": "Organize palma e dedos",
+          "description": "Veja o arco dos dedos e as linhas da palma. O polegar nasce ao lado da mão.",
+          "image": "/tutorials/maos-aula/passo-2.svg",
+          "type": "construction",
+          "tip": ""
+        },
+        {
+          "title": "Marque as articulações",
+          "description": "As dobras acompanham as articulações. Compare os segmentos sem apertar o lápis.",
+          "image": "/tutorials/maos-aula/passo-3.svg",
+          "type": "lineart",
+          "tip": ""
+        },
+        {
+          "title": "Dê volume à mesma mão",
+          "description": "Use tom claro na frente e um tom mais escuro nas dobras. Varie a força do contorno.",
+          "image": "/tutorials/maos-aula/passo-4.svg",
+          "type": "color",
+          "tip": ""
+        },
+        {
+          "title": "Resultado final — uma inspiração",
+          "description": "Uma inspiração do estudo finalizado. Observe os contornos e os detalhes; adapte a construção à sua referência.",
+          "image": "/tutorials/maos-aula/passo-5.svg",
+          "type": "final",
+          "tip": ""
+        }
+      ]
+    }
+  }
+]
